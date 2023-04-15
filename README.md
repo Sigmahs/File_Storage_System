@@ -1,6 +1,6 @@
 # File_Storage_System
 
-A small project attempting to create a filestorage system. Designed and Created alongside Yanru Zhou, a fellow student at UC Berkeley.
+A small project for a course at UC Berkeley attempting to create a filestorage system. Designed and Created alongside Yanru Zhou, a fellow student at UC Berkeley.
 
 File Storage:
 
